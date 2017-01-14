@@ -1,0 +1,36 @@
+rawcode 0 1
+name 2 peasant
+model 2 respack/peasant/model
+portrait 2 respack/peasant/portrait
+attack 0 0
+armor 0 0
+resist 0 0
+maxhealth 0 5
+health 0 5
+maxmana 0 0
+mana 0 0
+mspeed 0 3
+range 0 1
+spell[1] 3 0
+\
+rawcode 0 2
+name 2 monster
+model 2 respack/monster/model
+portrait 2 respack/monster/portrait
+attack 0 1
+armor 0 2
+resist 0 0
+maxhealth 0 7
+health 0 7
+maxmana 0 0
+mana 0 0
+mspeed 0 4
+range 0 1
+spell[1] 1 3
+\
+rawcode 0 3
+name 2 fury
+castfunction 0 0
+manacost 0 0
+cooldown 0 1
+/

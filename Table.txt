@@ -1,0 +1,26 @@
+Table:
+Unit :
+	//General Properties
+	string Name
+	int Unit_Type
+	string Model_File
+	string Portrait_File
+	//Battle Properties
+	int Attack
+	int Physical_Armor
+	int Magical_Armor
+	int Health_Points
+	int Max_Health_Points
+	int Min_Damage
+	int Max_Damage
+	int Movement_Speed
+	int Mana
+	int Max_Mana
+	int Range
+	//Ability Properties
+	ID [] Abilities
+	//Army Properties
+	int Amount
+	
+	
+	
